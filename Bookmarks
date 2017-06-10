@@ -1,0 +1,618 @@
+{
+   "checksum": "59bd1d024450a4c3ccdeea1e151ae98b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13110660226218256",
+            "id": "21",
+            "name": "[SOLVED] Multiple databases in WordPress | Web Design Colors",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://webdesigncolors.com/handling-multiple-databases-in-wordpress/"
+         }, {
+            "date_added": "13118726349855078",
+            "id": "61",
+            "name": "5 Gotchas You're Gonna Face Getting Inline SVG Into Production | CSS-Tricks",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://css-tricks.com/gotchas-on-getting-svg-into-production/"
+         }, {
+            "date_added": "13121187393243280",
+            "id": "68",
+            "name": "9 Most Useful .htaccess Tricks for WordPress",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.wpbeginner.com/wp-tutorials/9-most-useful-htaccess-tricks-for-wordpress/"
+         }, {
+            "date_added": "13121187383195835",
+            "id": "67",
+            "name": "A Basic MySQL Tutorial | DigitalOcean",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial"
+         }, {
+            "date_added": "13139086480839345",
+            "id": "128",
+            "meta_info": {
+               "last_visited_desktop": "13139086480842507"
+            },
+            "name": "A Complete Guide to Flexbox | CSS-Tricks",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+         }, {
+            "date_added": "13138420286168709",
+            "id": "122",
+            "meta_info": {
+               "last_visited_desktop": "13138817957919127"
+            },
+            "name": "Adding Sunlight Through Trees - Photoshop Tutorial",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.photoshopessentials.com/photo-effects/sunlight-trees/"
+         }, {
+            "date_added": "13136918074339269",
+            "id": "118",
+            "meta_info": {
+               "last_visited_desktop": "13136918074341570"
+            },
+            "name": "Advanced Git Tutorials Overview | Atlassian Git Tutorial",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.atlassian.com/git/tutorials/advanced-overview"
+         }, {
+            "date_added": "13110908424808885",
+            "id": "22",
+            "name": "AJAX lazy load with Wordpress Pagination - Affari Project",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.affariproject.com/2015/03/ajax-lazyload-wordpress-pagination/"
+         }, {
+            "date_added": "13123869490911431",
+            "id": "79",
+            "name": "alex-r-bigelow/hanpuku: Interface between d3.js and Adobe Illustrator",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://github.com/alex-r-bigelow/hanpuku"
+         }, {
+            "date_added": "13107041831593220",
+            "id": "18",
+            "name": "An Introduction to the Posts 2 Posts Plugin - Pippins Plugins",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://pippinsplugins.com/introduction-posts-2-posts-plugin/"
+         }, {
+            "date_added": "13136519016061883",
+            "id": "116",
+            "meta_info": {
+               "last_visited_desktop": "13136519016063408"
+            },
+            "name": "Apache vs Nginx: Practical Considerations | DigitalOcean",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations"
+         }, {
+            "date_added": "13129229112906378",
+            "id": "94",
+            "name": "Artificial Intelligence | edX",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.edx.org/micromasters/columbiax-artificial-intelligence"
+         }, {
+            "date_added": "13112294770802106",
+            "id": "28",
+            "name": "Carousel Deployment Guide",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/www-production.trms.com/pdf/documentation/Carousel%20Deployment%20Guide%20ver%202015.pdf"
+         }, {
+            "date_added": "13115695407234437",
+            "id": "48",
+            "name": "Creating a Search Page « WordPress Codex",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://codex.wordpress.org/Creating_a_Search_Page#Using_the_page.php"
+         }, {
+            "date_added": "13117137864845349",
+            "id": "54",
+            "name": "css - Centering SVG horizontally - Stack Overflow",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://stackoverflow.com/questions/26975680/centering-svg-horizontally"
+         }, {
+            "date_added": "13117000599837952",
+            "id": "53",
+            "name": "CSS Hexagon Tutorial",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://jtauber.github.io/articles/css-hexagon.html"
+         }, {
+            "date_added": "13121288328034728",
+            "id": "75",
+            "name": "Database Sync — WordPress Plugins",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/plugins/database-sync/"
+         }, {
+            "date_added": "13113592172184639",
+            "id": "36",
+            "name": "Debugging in WordPress « WordPress Codex",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://codex.wordpress.org/Debugging_in_WordPress"
+         }, {
+            "date_added": "13130521283395708",
+            "id": "100",
+            "meta_info": {
+               "last_visited_desktop": "13136053347101463"
+            },
+            "name": "explainshell.com - match command-line arguments to their help text",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://explainshell.com/"
+         }, {
+            "date_added": "13124907173241713",
+            "id": "82",
+            "name": "Fast Falling Snow 1080p Hd Without Music - 4 hours - YouTube",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=V4Oosy-ZtGY&feature=youtu.be"
+         }, {
+            "date_added": "13124993931985805",
+            "id": "83",
+            "name": "Find Courses by Topic | MIT OpenCourseWare | Free Online Course Materials",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience"
+         }, {
+            "date_added": "13126658418578792",
+            "id": "88",
+            "name": "Flexbox Guide",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://tutorials.coffeecup.com/foundation-framer/flexbox-guide/"
+         }, {
+            "date_added": "13112294766258373",
+            "id": "27",
+            "name": "FrontDoor Release 5: The Manual",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www2.trms.com/assets/326/FrontDoor_5.5.0.pdf"
+         }, {
+            "date_added": "13106256920958304",
+            "id": "13",
+            "name": "Google Custom Search — WordPress Plugins",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/plugins/google-custom-search/"
+         }, {
+            "date_added": "13106847973783864",
+            "id": "15",
+            "name": "Hardening WordPress « WordPress Codex",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://codex.wordpress.org/Hardening_WordPress"
+         }, {
+            "date_added": "13136519254674756",
+            "id": "117",
+            "meta_info": {
+               "last_visited_desktop": "13136519254676291"
+            },
+            "name": "How it feels to learn JavaScript in 2016 – Hacker Noon",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+         }, {
+            "date_added": "13111617695791041",
+            "id": "26",
+            "name": "How to Build a Raspberry Pi Retro Game Console for $35",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192"
+         }, {
+            "date_added": "13116698427062816",
+            "id": "50",
+            "name": "How to create a search engine in PHP with MySQL",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.findsourcecode.com/php/how-to-create-a-search-engine-in-php-with-mysql/"
+         }, {
+            "date_added": "13133981112105843",
+            "id": "105",
+            "meta_info": {
+               "last_visited_desktop": "13133981112108204"
+            },
+            "name": "How to Fix White Text and Missing Buttons in WordPress Visual Editor",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-fix-white-text-and-missing-buttons-in-wordpress-visual-editor/"
+         }, {
+            "date_added": "13121187376432051",
+            "id": "66",
+            "name": "How to import an SQL file using the command line in MySQL? - Stack Overflow",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://stackoverflow.com/questions/17666249/how-to-import-an-sql-file-using-the-command-line-in-mysql"
+         }, {
+            "date_added": "13121203416304131",
+            "id": "72",
+            "name": "How to merge two Wordpress databases with MySQL - CSS-Plus",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://css-plus.com/2015/03/how-to-merge-two-wordpress-databases-with-mysql/"
+         }, {
+            "date_added": "13136490036561241",
+            "id": "115",
+            "meta_info": {
+               "last_visited_desktop": "13136490036564072"
+            },
+            "name": "Intro to Machine Learning Course | Udacity",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.udacity.com/course/intro-to-machine-learning--ud120"
+         }, {
+            "date_added": "13125006468232151",
+            "id": "84",
+            "name": "Leverage browser caching | GTmetrix",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://gtmetrix.com/leverage-browser-caching.html"
+         }, {
+            "date_added": "13120167272175170",
+            "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13137013966296873"
+            },
+            "name": "Library Genesis",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/search.php?req=Building+Microservices&lg_topic=libgen&open=0&view=simple&phrase=1&column=def"
+         }, {
+            "date_added": "13137607355822701",
+            "id": "119",
+            "meta_info": {
+               "last_visited_desktop": "13137607355825767"
+            },
+            "name": "Line Menu Styles | Codrops",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://tympanus.net/Development/LineMenuStyles/"
+         }, {
+            "date_added": "13121288109135262",
+            "id": "74",
+            "name": "Liquibase | Database Refactoring | Liquibase",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.liquibase.org/"
+         }, {
+            "date_added": "13118650494711876",
+            "id": "58",
+            "name": "Manipulating SVG Icons With Simple CSS",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694"
+         }, {
+            "date_added": "13116141673728032",
+            "id": "49",
+            "name": "MySQL LIKE + php sprintf - Stack Overflow",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://stackoverflow.com/questions/3863199/mysql-like-php-sprintf"
+         }, {
+            "date_added": "13126396851899768",
+            "id": "87",
+            "name": "New Tab",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13102623759419167",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13137693793447696"
+            },
+            "name": "New York Genome Center Events | Eventbrite",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.eventbrite.com/o/new-york-genome-center-3239613658"
+         }, {
+            "date_added": "13138918701692536",
+            "id": "125",
+            "meta_info": {
+               "last_visited_desktop": "13138918701695023"
+            },
+            "name": "News | New York Genome Center",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://web.archive.org/web/20140311093011/http://www.nygenome.org/news/"
+         }, {
+            "date_added": "13130871083352509",
+            "id": "101",
+            "name": "NYGC Collaborator Portal",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wharf-testing.nygenome.org/"
+         }, {
+            "date_added": "13135874984916357",
+            "id": "109",
+            "meta_info": {
+               "last_visited_desktop": "13135875143826577"
+            },
+            "name": "nygenome/Conpair: Concordance and contamination estimator for tumor–normal pairs",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://github.com/nygenome/Conpair"
+         }, {
+            "date_added": "13112982851586653",
+            "id": "32",
+            "name": "Objects | Coder Manual",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://courses.codermanual.com/courses/complete-web-developer-bootcamp-rails/lectures/114688"
+         }, {
+            "date_added": "13126136685280024",
+            "id": "86",
+            "meta_info": {
+               "last_visited_desktop": "13139272768005243"
+            },
+            "name": "Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://regex101.com/"
+         }, {
+            "date_added": "13130266628552216",
+            "id": "97",
+            "meta_info": {
+               "last_visited_desktop": "13133292717227913"
+            },
+            "name": "Publishing Atom theme",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://flight-manual.atom.io/hacking-atom/sections/publishing/"
+         }, {
+            "date_added": "13125515006479611",
+            "id": "85",
+            "name": "Python Programming Tutorials",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://pythonprogramming.net/finance-tutorials/"
+         }, {
+            "date_added": "13117751899568972",
+            "id": "55",
+            "name": "react-svg-buttons",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://plouc.github.io/react-svg-buttons/"
+         }, {
+            "date_added": "13137732632324123",
+            "id": "120",
+            "meta_info": {
+               "last_visited_desktop": "13138817966822575"
+            },
+            "name": "Regex Tutorial—From Regex 101 to Advanced Regex",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.rexegg.com/"
+         }, {
+            "date_added": "13103141509755398",
+            "id": "10",
+            "name": "rrrepo - webdesign",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://rrrepo.co/repo/webdesign"
+         }, {
+            "date_added": "13111079475156251",
+            "id": "24",
+            "name": "SAML 2.0 Single Sign-On — WordPress Plugins",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/plugins/saml-20-single-sign-on/"
+         }, {
+            "date_added": "13115405100167728",
+            "id": "46",
+            "name": "SecLists/Passwords at master · danielmiessler/SecLists",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://github.com/danielmiessler/SecLists/tree/master/Passwords"
+         }, {
+            "date_added": "13137864466989103",
+            "id": "121",
+            "meta_info": {
+               "last_visited_desktop": "13137864466992107"
+            },
+            "name": "Server Developer Guide - Red Hat Customer Portal",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.1/html/server_developer_guide/"
+         }, {
+            "date_added": "13136311114081920",
+            "id": "112",
+            "meta_info": {
+               "last_visited_desktop": "13136311114084620"
+            },
+            "name": "Speed up your site with a little machine learning – Hacker Noon",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://hackernoon.com/speed-up-your-site-with-a-little-machine-learning-fa9eb7c86dbb"
+         }, {
+            "date_added": "13128316388304884",
+            "id": "91",
+            "name": "Step by Step Kodi Jarvis and Exodus Install | WirelesSHack",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.wirelesshack.org/step-by-step-kodi-jarvis-and-exodus-install.html"
+         }, {
+            "date_added": "13118650851378357",
+            "id": "59",
+            "name": "SVG Icons Animated with CSS 🔥",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://codepen.io/noahblon/pen/lxukH"
+         }, {
+            "date_added": "13115311596763017",
+            "id": "39",
+            "name": "Tell Broad Institute About Your Project Scope",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://genomics.broadinstitute.org/tell-us-about-your-project"
+         }, {
+            "date_added": "13121205588678447",
+            "id": "73",
+            "name": "The Events Calendar: Basic Conditional Wrappers",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://gist.github.com/jo-snips/2415009"
+         }, {
+            "date_added": "13103058605237661",
+            "id": "9",
+            "name": "The list for web designers | Designerslist",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.designerslist.info/"
+         }, {
+            "date_added": "13118783800300515",
+            "id": "62",
+            "name": "The Perfect WordPress Inline SVG Workflow - Treehouse Blog",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://blog.teamtreehouse.com/perfect-wordpress-inline-svg-workflow"
+         }, {
+            "date_added": "13118726044774074",
+            "id": "60",
+            "name": "TinyMCE and SVG's",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://world.episerver.com/forum/developer-forum/-EPiServer-75-CMS/Thread-Container/2015/1/tinymce-and-svgs/"
+         }, {
+            "date_added": "13111165000846068",
+            "id": "25",
+            "name": "Top 25 Free WordPress Plugins and Why They’re So Damn Popular - WPMU DEV",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://premium.wpmudev.org/blog/top-25-wordpress-plugins/?utm_campaign=Roost&utm_source=Roost&utm_medium=push"
+         }, {
+            "date_added": "13115401093551068",
+            "id": "42",
+            "name": "Top 7 algorithms and DS every programmer should know",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html"
+         }, {
+            "date_added": "13106428669404628",
+            "id": "14",
+            "name": "Ubuntu Netbeans and LAMP server with Xdebug as non-root user | TechyTalk.info",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.techytalk.info/ubuntu-netbeans-lamp-with-xdebug-nonroot/"
+         }, {
+            "date_added": "13112895534772426",
+            "id": "30",
+            "name": "Using wpdb to connect to a separate database - WordPress Development Stack Exchange",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://wordpress.stackexchange.com/questions/1604/using-wpdb-to-connect-to-a-separate-database"
+         }, {
+            "date_added": "13134062003860688",
+            "id": "108",
+            "meta_info": {
+               "last_visited_desktop": "13137788908551096"
+            },
+            "name": "webcam.drokk.org/video4.mjpg",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://webcam.drokk.org/video4.mjpg"
+         }, {
+            "date_added": "13132684282617970",
+            "id": "104",
+            "meta_info": {
+               "last_visited_desktop": "13132684282623899"
+            },
+            "name": "Word Cloud Generator",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.jasondavies.com/wordcloud/"
+         }, {
+            "date_added": "13112895529352673",
+            "id": "29",
+            "name": "WordPress › Support » Connecting to another mysql database",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/support/topic/connecting-to-another-mysql-database"
+         }, {
+            "date_added": "13113592059637034",
+            "id": "35",
+            "name": "WordPress › Support » gzdeflate() and load-styles.php issue",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/support/topic/gzdeflate-and-load-stylesphp-issue"
+         }, {
+            "date_added": "13112895542259839",
+            "id": "31",
+            "name": "WordPress › Support » How to Connect Multiple Databases for Search Results",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/support/topic/how-to-connect-multiple-databases-for-search-results"
+         }, {
+            "date_added": "13115694770222064",
+            "id": "47",
+            "name": "WordPress › Support » How to connect search form with external database",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/support/topic/how-to-connect-search-form-with-external-database"
+         }, {
+            "date_added": "13111012776058572",
+            "id": "23",
+            "name": "WordPress › Support » Use with ADFS",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://wordpress.org/support/topic/use-with-adfs"
+         }, {
+            "date_added": "13115401220606604",
+            "id": "43",
+            "name": "WordPress Theme Automation With Gulp",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://www.sitepoint.com/wordpress-theme-automation-with-gulp/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=javascript"
+         }, {
+            "date_added": "13121288479512809",
+            "id": "76",
+            "name": "wp-sync-db/wp-sync-db: A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations.",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "https://github.com/wp-sync-db/wp-sync-db"
+         }, {
+            "date_added": "13121192711659235",
+            "id": "69",
+            "name": "www.wehi.tv",
+            "sync_transaction_version": "114",
+            "type": "url",
+            "url": "http://www.wehi.tv/"
+         } ],
+         "date_added": "13102439501124881",
+         "date_modified": "13139086480839345",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13102439501124920",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "sync_transaction_version": "114",
+      "synced": {
+         "children": [  ],
+         "date_added": "13102439501124923",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
