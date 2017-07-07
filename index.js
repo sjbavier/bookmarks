@@ -1,13 +1,13 @@
-var bookmarks = require('bookmarker-json');
 var fs = require('fs');
 var path = require('path');
+var removeStopWords = require('./removeStopWords.js');
 var file = "bookmarks.html";
 // var file = process.argv[2];
 var cheerio = require('cheerio');
 var marks = [];
 
 
-function convertJson(file, createFile) {
+function convertJson(file) {
     fs.readFile(file, function(err, data) {
         if (err) {
             console.log("there was a problem opening file " + err);
@@ -33,30 +33,6 @@ function createFile(fileString) {
     frequency(titles);
 }
 
-function frequency(titles) {
-  var re = new RegExp('\S\w+[a-zA-Z]', 'g');
-  var titlesRe = titles.join(' ').replace(re);
-  fs.writeFile('titles.txt', titlesRe, function(err, data){
-    if(err){
-      console.log("unable to write Titles to disk" + err);
-    }
-  });
-    var words = titles.join(' ').split(/\s+/);
-    var sortable = [];
-    var counts = words.reduce(function(memo, word) {
-        memo[word] = (memo[word] || 0) + 1;
-        return memo;
-    }, {});
-    for (var keyword in counts) {
-        sortable.push([keyword, counts[keyword]]);
-    }
-    sortable.sort(function(a, b) {
-        return a[1] - b[1];
-    });
-    console.log(sortable.slice().join('\n'));
-    return;
-}
-
 function storeFile(marks) {
     fs.writeFile('bookmarks.json', marks, function(err, data) {
         if (err) {
@@ -65,4 +41,38 @@ function storeFile(marks) {
     });
 }
 
-convertJson(file, createFile);
+function frequency(titles) {
+    var titlesString = titles.join(' ');
+    var words = titlesString.toLowerCase().match(/\w+[A-z]/g);
+    var wordsString = words.join(' ');
+    var wordsArrayFiltered = wordsString.removeStopWords().split(' ');
+    var sortable = [];
+
+    fs.writeFile('titles.txt', wordsArrayFiltered, function(err, data){
+      if(err){
+        console.log("unable to write Titles to disk" + err);
+      }
+    });
+
+    var counts = wordsArrayFiltered.reduce(function(prev, curr) {
+        prev[curr] = (prev[curr] || 0) + 1;
+        return prev;
+    }, {});
+
+    for (var keyword in counts) {
+        sortable.push([keyword, counts[keyword]]);
+    }
+
+    sortable.sort(function(a, b) {
+        return a[1] - b[1];
+    });
+
+    console.log(sortable.slice().join('\n'));
+    categorize(counts);
+}
+
+function categorize(counts){
+
+}
+
+convertJson(file);

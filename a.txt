@@ -1,0 +1,245 @@
+[{
+    "title": "[SOLVED] Multiple databases in WordPress | Web Design Colors",
+    "link": "http://webdesigncolors.com/handling-multiple-databases-in-wordpress/"
+}, {
+    "title": "5 Gotchas You're Gonna Face Getting Inline SVG Into Production | CSS-Tricks",
+    "link": "https://css-tricks.com/gotchas-on-getting-svg-into-production/"
+}, {
+    "title": "9 Most Useful .htaccess Tricks for WordPress",
+    "link": "http://www.wpbeginner.com/wp-tutorials/9-most-useful-htaccess-tricks-for-wordpress/"
+}, {
+    "title": "A Basic MySQL Tutorial | DigitalOcean",
+    "link": "https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial"
+}, {
+    "title": "A Complete Guide to Flexbox | CSS-Tricks",
+    "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+}, {
+    "title": "Adding Sunlight Through Trees - Photoshop Tutorial",
+    "link": "http://www.photoshopessentials.com/photo-effects/sunlight-trees/"
+}, {
+    "title": "Advanced Git Tutorials Overview | Atlassian Git Tutorial",
+    "link": "https://www.atlassian.com/git/tutorials/advanced-overview"
+}, {
+    "title": "AJAX lazy load with Wordpress Pagination - Affari Project",
+    "link": "http://www.affariproject.com/2015/03/ajax-lazyload-wordpress-pagination/"
+}, {
+    "title": "alex-r-bigelow/hanpuku: Interface between d3.js and Adobe Illustrator",
+    "link": "https://github.com/alex-r-bigelow/hanpuku"
+}, {
+    "title": "An Introduction to the Posts 2 Posts Plugin - Pippins Plugins",
+    "link": "https://pippinsplugins.com/introduction-posts-2-posts-plugin/"
+}, {
+    "title": "Apache vs Nginx: Practical Considerations | DigitalOcean",
+    "link": "https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations"
+}, {
+    "title": "Artificial Intelligence | edX",
+    "link": "https://www.edx.org/micromasters/columbiax-artificial-intelligence"
+}, {
+    "title": "Carousel Deployment Guide",
+    "link": "https://s3.amazonaws.com/www-production.trms.com/pdf/documentation/Carousel%20Deployment%20Guide%20ver%202015.pdf"
+}, {
+    "title": "Creating a Search Page « WordPress Codex",
+    "link": "https://codex.wordpress.org/Creating_a_Search_Page#Using_the_page.php"
+}, {
+    "title": "css - Centering SVG horizontally - Stack Overflow",
+    "link": "http://stackoverflow.com/questions/26975680/centering-svg-horizontally"
+}, {
+    "title": "CSS Hexagon Tutorial",
+    "link": "https://jtauber.github.io/articles/css-hexagon.html"
+}, {
+    "title": "Database Sync — WordPress Plugins",
+    "link": "https://wordpress.org/plugins/database-sync/"
+}, {
+    "title": "Debugging in WordPress « WordPress Codex",
+    "link": "https://codex.wordpress.org/Debugging_in_WordPress"
+}, {
+    "title": "explainshell.com - match command-line arguments to their help text",
+    "link": "http://explainshell.com/"
+}, {
+    "title": "Fast Falling Snow 1080p Hd Without Music - 4 hours - YouTube",
+    "link": "https://www.youtube.com/watch?v=V4Oosy-ZtGY&feature=youtu.be"
+}, {
+    "title": "Find Courses by Topic | MIT OpenCourseWare | Free Online Course Materials",
+    "link": "https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience"
+}, {
+    "title": "Flexbox Guide",
+    "link": "http://tutorials.coffeecup.com/foundation-framer/flexbox-guide/"
+}, {
+    "title": "FrontDoor Release 5: The Manual",
+    "link": "http://www2.trms.com/assets/326/FrontDoor_5.5.0.pdf"
+}, {
+    "title": "Google Custom Search — WordPress Plugins",
+    "link": "https://wordpress.org/plugins/google-custom-search/"
+}, {
+    "title": "Hardening WordPress « WordPress Codex",
+    "link": "http://codex.wordpress.org/Hardening_WordPress"
+}, {
+    "title": "How it feels to learn JavaScript in 2016 – Hacker Noon",
+    "link": "https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+}, {
+    "title": "How to Build a Raspberry Pi Retro Game Console for $35",
+    "link": "http://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192"
+}, {
+    "title": "How to create a search engine in PHP with MySQL",
+    "link": "http://www.findsourcecode.com/php/how-to-create-a-search-engine-in-php-with-mysql/"
+}, {
+    "title": "How to Fix White Text and Missing Buttons in WordPress Visual Editor",
+    "link": "http://www.wpbeginner.com/wp-tutorials/how-to-fix-white-text-and-missing-buttons-in-wordpress-visual-editor/"
+}, {
+    "title": "How to import an SQL file using the command line in MySQL? - Stack Overflow",
+    "link": "http://stackoverflow.com/questions/17666249/how-to-import-an-sql-file-using-the-command-line-in-mysql"
+}, {
+    "title": "How to merge two Wordpress databases with MySQL - CSS-Plus",
+    "link": "http://css-plus.com/2015/03/how-to-merge-two-wordpress-databases-with-mysql/"
+}, {
+    "title": "Intro to Machine Learning Course | Udacity",
+    "link": "https://www.udacity.com/course/intro-to-machine-learning--ud120"
+}, {
+    "title": "Leverage browser caching | GTmetrix",
+    "link": "https://gtmetrix.com/leverage-browser-caching.html"
+}, {
+    "title": "Library Genesis",
+    "link": "http://gen.lib.rus.ec/search.php?req=Building+Microservices&lg_topic=libgen&open=0&view=simple&phrase=1&column=def"
+}, {
+    "title": "Line Menu Styles | Codrops",
+    "link": "https://tympanus.net/Development/LineMenuStyles/"
+}, {
+    "title": "Liquibase | Database Refactoring | Liquibase",
+    "link": "http://www.liquibase.org/"
+}, {
+    "title": "Manipulating SVG Icons With Simple CSS",
+    "link": "https://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694"
+}, {
+    "title": "MySQL LIKE + php sprintf - Stack Overflow",
+    "link": "http://stackoverflow.com/questions/3863199/mysql-like-php-sprintf"
+}, {
+    "title": "New Tab",
+    "link": "chrome://newtab/"
+}, {
+    "title": "New York Genome Center Events | Eventbrite",
+    "link": "http://www.eventbrite.com/o/new-york-genome-center-3239613658"
+}, {
+    "title": "News | New York Genome Center",
+    "link": "http://web.archive.org/web/20140311093011/http://www.nygenome.org/news/"
+}, {
+    "title": "NYGC Collaborator Portal",
+    "link": "https://wharf-testing.nygenome.org/"
+}, {
+    "title": "nygenome/Conpair: Concordance and contamination estimator for tumor–normal pairs",
+    "link": "https://github.com/nygenome/Conpair"
+}, {
+    "title": "Objects | Coder Manual",
+    "link": "http://courses.codermanual.com/courses/complete-web-developer-bootcamp-rails/lectures/114688"
+}, {
+    "title": "Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript",
+    "link": "https://regex101.com/"
+}, {
+    "title": "Publishing Atom theme",
+    "link": "http://flight-manual.atom.io/hacking-atom/sections/publishing/"
+}, {
+    "title": "Python Programming Tutorials",
+    "link": "https://pythonprogramming.net/finance-tutorials/"
+}, {
+    "title": "react-svg-buttons",
+    "link": "http://plouc.github.io/react-svg-buttons/"
+}, {
+    "title": "Regex Tutorial—From Regex 101 to Advanced Regex",
+    "link": "http://www.rexegg.com/"
+}, {
+    "title": "rrrepo - webdesign",
+    "link": "https://rrrepo.co/repo/webdesign"
+}, {
+    "title": "SAML 2.0 Single Sign-On — WordPress Plugins",
+    "link": "https://wordpress.org/plugins/saml-20-single-sign-on/"
+}, {
+    "title": "SecLists/Passwords at master · danielmiessler/SecLists",
+    "link": "https://github.com/danielmiessler/SecLists/tree/master/Passwords"
+}, {
+    "title": "Server Developer Guide - Red Hat Customer Portal",
+    "link": "https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.1/html/server_developer_guide/"
+}, {
+    "title": "Speed up your site with a little machine learning – Hacker Noon",
+    "link": "https://hackernoon.com/speed-up-your-site-with-a-little-machine-learning-fa9eb7c86dbb"
+}, {
+    "title": "Step by Step Kodi Jarvis and Exodus Install | WirelesSHack",
+    "link": "http://www.wirelesshack.org/step-by-step-kodi-jarvis-and-exodus-install.html"
+}, {
+    "title": "SVG Icons Animated with CSS 🔥",
+    "link": "http://codepen.io/noahblon/pen/lxukH"
+}, {
+    "title": "Tell Broad Institute About Your Project Scope",
+    "link": "http://genomics.broadinstitute.org/tell-us-about-your-project"
+}, {
+    "title": "The Events Calendar: Basic Conditional Wrappers",
+    "link": "https://gist.github.com/jo-snips/2415009"
+}, {
+    "title": "The list for web designers | Designerslist",
+    "link": "http://www.designerslist.info/"
+}, {
+    "title": "The Perfect WordPress Inline SVG Workflow - Treehouse Blog",
+    "link": "http://blog.teamtreehouse.com/perfect-wordpress-inline-svg-workflow"
+}, {
+    "title": "TinyMCE and SVG's",
+    "link": "http://world.episerver.com/forum/developer-forum/-EPiServer-75-CMS/Thread-Container/2015/1/tinymce-and-svgs/"
+}, {
+    "title": "Top 25 Free WordPress Plugins and Why They’re So Damn Popular - WPMU DEV",
+    "link": "https://premium.wpmudev.org/blog/top-25-wordpress-plugins/?utm_campaign=Roost&utm_source=Roost&utm_medium=push"
+}, {
+    "title": "Top 7 algorithms and DS every programmer should know",
+    "link": "http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html"
+}, {
+    "title": "Ubuntu Netbeans and LAMP server with Xdebug as non-root user | TechyTalk.info",
+    "link": "http://www.techytalk.info/ubuntu-netbeans-lamp-with-xdebug-nonroot/"
+}, {
+    "title": "Using wpdb to connect to a separate database - WordPress Development Stack Exchange",
+    "link": "http://wordpress.stackexchange.com/questions/1604/using-wpdb-to-connect-to-a-separate-database"
+}, {
+    "title": "webcam.drokk.org/video4.mjpg",
+    "link": "http://webcam.drokk.org/video4.mjpg"
+}, {
+    "title": "Word Cloud Generator",
+    "link": "https://www.jasondavies.com/wordcloud/"
+}, {
+    "title": "WordPress › Support » Connecting to another mysql database",
+    "link": "https://wordpress.org/support/topic/connecting-to-another-mysql-database"
+}, {
+    "title": "WordPress › Support » gzdeflate() and load-styles.php issue",
+    "link": "https://wordpress.org/support/topic/gzdeflate-and-load-stylesphp-issue"
+}, {
+    "title": "WordPress › Support » How to Connect Multiple Databases for Search Results",
+    "link": "https://wordpress.org/support/topic/how-to-connect-multiple-databases-for-search-results"
+}, {
+    "title": "WordPress › Support » How to connect search form with external database",
+    "link": "https://wordpress.org/support/topic/how-to-connect-search-form-with-external-database"
+}, {
+    "title": "WordPress › Support » Use with ADFS",
+    "link": "https://wordpress.org/support/topic/use-with-adfs"
+}, {
+    "title": "WordPress Theme Automation With Gulp",
+    "link": "https://www.sitepoint.com/wordpress-theme-automation-with-gulp/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=javascript"
+}, {
+    "title": "wp-sync-db/wp-sync-db: A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations.",
+    "link": "https://github.com/wp-sync-db/wp-sync-db"
+}, {
+    "title": "www.wehi.tv",
+    "link": "http://www.wehi.tv/"
+}] rg / support / topic / gzdeflate - and - load - stylesphp - issue "
+}, {
+    "title": "WordPress › Support » How to Connect Multiple Databases for Search Results",
+    "link": "https://wordpress.org/support/topic/how-to-connect-multiple-databases-for-search-results"
+}, {
+    "title": "WordPress › Support » How to connect search form with external database",
+    "link": "https://wordpress.org/support/topic/how-to-connect-search-form-with-external-database"
+}, {
+    "title": "WordPress › Support » Use with ADFS",
+    "link": "https://wordpress.org/support/topic/use-with-adfs"
+}, {
+    "title": "WordPress Theme Automation With Gulp",
+    "link": "https://www.sitepoint.com/wordpress-theme-automation-with-gulp/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=javascript"
+}, {
+    "title": "wp-sync-db/wp-sync-db: A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations.",
+    "link": "https://github.com/wp-sync-db/wp-sync-db"
+}, {
+    "title": "www.wehi.tv",
+    "link": "http://www.wehi.tv/"
+}]
