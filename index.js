@@ -68,10 +68,10 @@ function frequency(titles) {
     });
 
     console.log(sortable.slice().join('\n'));
-    categorize(counts);
+    categorize(sortable);
 }
 
-function categorize(counts){
+function categorize(sortable){
 
 }
 
