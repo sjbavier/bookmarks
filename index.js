@@ -28,9 +28,7 @@ function createFile(fileString) {
         };
         titles.push(title);
     });
-    marks = JSON.stringify(marks);
-    storeFile(marks);
-    frequency(titles);
+    frequency(titles, marks);
 }
 
 function storeFile(marks) {
@@ -41,17 +39,17 @@ function storeFile(marks) {
     });
 }
 
-function frequency(titles) {
+function frequency(titles, marks) {
     var titlesString = titles.join(' ');
     var words = titlesString.toLowerCase().match(/\w+[A-z]/g);
     var wordsString = words.join(' ');
     var wordsArrayFiltered = wordsString.removeStopWords().split(' ');
     var sortable = [];
 
-    fs.writeFile('titles.txt', wordsArrayFiltered, function(err, data){
-      if(err){
-        console.log("unable to write Titles to disk" + err);
-      }
+    fs.writeFile('titles.txt', wordsArrayFiltered, function(err, data) {
+        if (err) {
+            console.log("unable to write Titles to disk" + err);
+        }
     });
 
     var counts = wordsArrayFiltered.reduce(function(prev, curr) {
@@ -68,11 +66,28 @@ function frequency(titles) {
     });
 
     console.log(sortable.slice().join('\n'));
-    categorize(sortable);
+    categorize(sortable, marks);
 }
 
-function categorize(sortable){
+function categorize(sortable, marks) {
+    for (var x = 0; x < sortable.length; x++) {
 
+        for (var y = 0; y < marks.length; y++) {
+
+            if (marks[y]['title'].toLowerCase().indexOf(sortable[x][0]) != -1) {
+                var tempTitle = marks[y]['title'];
+                var tempSortable = sortable[x][0];
+                marks[y]['category'] = (marks[y]['category'] || []);
+                marks[y]['category'].push(sortable[x][0]);
+
+            }
+
+        }
+
+    }
+    console.log(marks);
+    marks = JSON.stringify(marks);
+    storeFile(marks)
 }
 
 convertJson(file);
