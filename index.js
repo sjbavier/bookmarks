@@ -1,7 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 var removeStopWords = require('./removeStopWords.js');
-var file = "bookmarks.html";
+var file = "bookmarks_7_26_17.html";
 // var file = process.argv[2];
 var cheerio = require('cheerio');
 var marks = [];
@@ -75,8 +75,7 @@ function categorize(sortable, marks) {
         for (var y = 0; y < marks.length; y++) {
 
             if (marks[y]['title'].toLowerCase().indexOf(sortable[x][0]) != -1) {
-                var tempTitle = marks[y]['title'];
-                var tempSortable = sortable[x][0];
+
                 marks[y]['category'] = (marks[y]['category'] || []);
                 marks[y]['category'].push(sortable[x][0]);
 
