@@ -1,7 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 var removeStopWords = require('./removeStopWords.js');
-var file = "bookmarks_7_26_17.html";
+var file = "bookmarks_8_11_17.html";
 // var file = process.argv[2];
 var cheerio = require('cheerio');
 var marks = [];
