@@ -1,5 +1,5 @@
 {
-  "name": "bookmarktools",
+  "name": "bookmarkTools",
   "version": "1.0.0",
   "description": "tools for utilizing bookmarks",
   "main": "index.js",
