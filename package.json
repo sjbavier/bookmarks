@@ -1,5 +1,5 @@
 {
-  "name": "bookmarkToJSONCategory",
+  "name": "bookmarks-to-JSON-Categorization",
   "version": "1.0.0",
   "description": "Tool for utilizing Chrome HTML export from bookmarks. Convert them to JSON file or return as JSON stringify",
   "main": "lib/convertToJSON.js",
