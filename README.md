@@ -14,14 +14,14 @@ bookmarks('bookmarks.html');
 
 You also have two options for second parameter as well as callback function.
 ```javascript
-bookmarks('bookmarks.html', options = { pipeFile: bookmarks.json, exportToFile: true}, callback(data){
-  //  do somethings here with data
+bookmarks('bookmarks.html', options = { pipeFile: 'bookmarks.json', exportToFile: true}, callback(data){
+  //  do some things here with data
 });
 ```
 
 Options are optional and defaulted to value in code example above.
 ```javascript
 bookmarks('bookmarks.html', callback(data){
-  // do somethings here with data
+  // do some things here with data
 });
 ```
