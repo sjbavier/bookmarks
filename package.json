@@ -1,6 +1,6 @@
 {
   "name": "bookmarks-to-json-categorization",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Tool for utilizing Chrome HTML export from bookmarks. Convert them to JSON file or return as JSON stringify",
   "main": "lib/convertToJSON.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "bookmark",
-    "tools"
+    "tools",
+    "node.js"
   ],
   "author": "sjbavier",
   "license": "MIT",

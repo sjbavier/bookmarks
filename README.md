@@ -1,7 +1,7 @@
-# bookmarks
+# bookmarks-to-json-categorization
 Converts bookmarks from HTML Google Chrome export into a JSON file with simplistic categorization.
 
-Designed for node.js and installable via ```npm install --save bookmarks-to-json-categorization```
+Designed for node.js and installable via ```npm install --save bookmarks-to-json-categorization -g```
 
 Usage:
 
